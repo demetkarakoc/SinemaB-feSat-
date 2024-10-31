@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\bin\Debug\sinema_büfe_satış.dll
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\bin\Debug\sinema_büfe_satış.pdb
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.Properties.Resources.resources
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.UserControl1.resources
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.csproj.GenerateResource.cache
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.dll
+C:\Users\user\source\repos\sinema_büfe_satış\sinema_büfe_satış\obj\Debug\sinema_büfe_satış.pdb

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA78F82-8FF7-47E3-AC3C-D09A348FD4C9}|sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F.csproj|c:\\users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA78F82-8FF7-47E3-AC3C-D09A348FD4C9}|sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F.csproj|solutionrelative:sinema_b\u00FCfe_sat\u0131\u015F\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA78F82-8FF7-47E3-AC3C-D09A348FD4C9}|sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F.csproj|C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DA78F82-8FF7-47E3-AC3C-D09A348FD4C9}|sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F.csproj|solutionrelative:sinema_b\u00FCfe_sat\u0131\u015F\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "RelativeDocumentMoniker": "sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "RelativeToolTip": "sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-11T13:54:57.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "RelativeDocumentMoniker": "sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\sinema_b\u00FCfe_sat\u0131\u015F\\sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinema_b\u00FCfe_sat\u0131\u015F\\UserControl1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-11T13:41:22.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
